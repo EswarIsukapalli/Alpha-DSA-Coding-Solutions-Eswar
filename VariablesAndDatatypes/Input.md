@@ -49,6 +49,8 @@ public class Input {
         sc.close();
     }
 }
+
+---
 🧾 Example Output
 yaml
 Copy code
