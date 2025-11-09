@@ -82,3 +82,7 @@ java Input
 ✅ Always use sc.nextLine() after nextInt() or nextFloat() to clear buffer issues.
 ✅ Close the Scanner object after use to prevent resource leaks.
 
+📂 File Name: Input.java
+📄 Description: Demonstrates Java input handling using Scanner class.
+🕹️ Author: Eswar Isukapalli
+📅 Category: Java Basics / Input Handling
