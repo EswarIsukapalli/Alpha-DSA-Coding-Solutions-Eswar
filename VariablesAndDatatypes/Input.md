@@ -18,6 +18,8 @@ It accepts a student’s details such as roll number, name, college name, and CG
 ---
 
 ## 💻 Code
+> 💡 *You can copy the code below directly into your `Input.java` file.*
+
 ```java
 import java.util.*;
 
@@ -80,7 +82,3 @@ java Input
 ✅ Always use sc.nextLine() after nextInt() or nextFloat() to clear buffer issues.
 ✅ Close the Scanner object after use to prevent resource leaks.
 
-📂 File Name: Input.java
-📄 Description: Demonstrates Java input handling using Scanner class.
-🕹️ Author: Eswar Isukapalli
-📅 Category: Java Basics / Input Handling
