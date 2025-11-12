@@ -6,7 +6,7 @@ Tags:
   - Scanner
 ---
 
-<!-- The problem can be found at the following link: [Problem Link](https://your-problem-link.com) -->
+<!-- The problem can be found at the following link: [Problem Link](https://your-problem-link.com) --> 
 
 # 📘 Input.java
 
